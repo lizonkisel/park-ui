@@ -1,0 +1,21 @@
+.addPhoto__wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.addPhoto_photoField {
+  margin: 20px 20px 0 20px;
+  padding: 0;
+  color: #FDFDFE;
+}
+
+.addPhoto_img {
+  width: 60vw;
+  max-width: 500px;
+  opacity: .6;
+}
+
+.addPhoto__button {
+  width: 100%;
+}
